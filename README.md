@@ -44,6 +44,7 @@ Contributors log in with credentials provided by the admin. Users are registered
 | Version | Date | Notes |
 |---|---|---|
 | v1.0 | 2026-05-19 | Initial debug release |
+| v1.1 | 2026-10-29 | New server (datacollection.platform.vaani-artpark.in, HTTPS); vendor-scoped logins; change password; offline login lockout; recordings encrypted on device; backup disabled; Vaani app icon. Installs over v1.0 keeping data; log in online once after updating. |
 
 ## Source
 
